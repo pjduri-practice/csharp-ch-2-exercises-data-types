@@ -1,0 +1,15 @@
+C:\Users\pjdur\Desktop\C#_Coursework\Exercises\Chapter2\ch-1-2-exercises-data-types\ch-1-2-exercises-data-types\bin\Debug\net6.0\hello-input.exe
+C:\Users\pjdur\Desktop\C#_Coursework\Exercises\Chapter2\ch-1-2-exercises-data-types\ch-1-2-exercises-data-types\bin\Debug\net6.0\hello-input.deps.json
+C:\Users\pjdur\Desktop\C#_Coursework\Exercises\Chapter2\ch-1-2-exercises-data-types\ch-1-2-exercises-data-types\bin\Debug\net6.0\hello-input.runtimeconfig.json
+C:\Users\pjdur\Desktop\C#_Coursework\Exercises\Chapter2\ch-1-2-exercises-data-types\ch-1-2-exercises-data-types\bin\Debug\net6.0\hello-input.dll
+C:\Users\pjdur\Desktop\C#_Coursework\Exercises\Chapter2\ch-1-2-exercises-data-types\ch-1-2-exercises-data-types\bin\Debug\net6.0\hello-input.pdb
+C:\Users\pjdur\Desktop\C#_Coursework\Exercises\Chapter2\ch-1-2-exercises-data-types\ch-1-2-exercises-data-types\obj\Debug\net6.0\hello-input.csproj.AssemblyReference.cache
+C:\Users\pjdur\Desktop\C#_Coursework\Exercises\Chapter2\ch-1-2-exercises-data-types\ch-1-2-exercises-data-types\obj\Debug\net6.0\hello-input.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pjdur\Desktop\C#_Coursework\Exercises\Chapter2\ch-1-2-exercises-data-types\ch-1-2-exercises-data-types\obj\Debug\net6.0\hello-input.AssemblyInfoInputs.cache
+C:\Users\pjdur\Desktop\C#_Coursework\Exercises\Chapter2\ch-1-2-exercises-data-types\ch-1-2-exercises-data-types\obj\Debug\net6.0\hello-input.AssemblyInfo.cs
+C:\Users\pjdur\Desktop\C#_Coursework\Exercises\Chapter2\ch-1-2-exercises-data-types\ch-1-2-exercises-data-types\obj\Debug\net6.0\hello-input.csproj.CoreCompileInputs.cache
+C:\Users\pjdur\Desktop\C#_Coursework\Exercises\Chapter2\ch-1-2-exercises-data-types\ch-1-2-exercises-data-types\obj\Debug\net6.0\hello-input.dll
+C:\Users\pjdur\Desktop\C#_Coursework\Exercises\Chapter2\ch-1-2-exercises-data-types\ch-1-2-exercises-data-types\obj\Debug\net6.0\refint\hello-input.dll
+C:\Users\pjdur\Desktop\C#_Coursework\Exercises\Chapter2\ch-1-2-exercises-data-types\ch-1-2-exercises-data-types\obj\Debug\net6.0\hello-input.pdb
+C:\Users\pjdur\Desktop\C#_Coursework\Exercises\Chapter2\ch-1-2-exercises-data-types\ch-1-2-exercises-data-types\obj\Debug\net6.0\hello-input.genruntimeconfig.cache
+C:\Users\pjdur\Desktop\C#_Coursework\Exercises\Chapter2\ch-1-2-exercises-data-types\ch-1-2-exercises-data-types\obj\Debug\net6.0\ref\hello-input.dll

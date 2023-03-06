@@ -1,0 +1,15 @@
+C:\Users\pjdur\Desktop\C#_Coursework\Exercises\Chapter2\ch-1-2-exercises-data-types\ch-1-2-exercises-data-types\bin\Debug\net6.0\ch-1-2-exercises-data-types.exe
+C:\Users\pjdur\Desktop\C#_Coursework\Exercises\Chapter2\ch-1-2-exercises-data-types\ch-1-2-exercises-data-types\bin\Debug\net6.0\ch-1-2-exercises-data-types.deps.json
+C:\Users\pjdur\Desktop\C#_Coursework\Exercises\Chapter2\ch-1-2-exercises-data-types\ch-1-2-exercises-data-types\bin\Debug\net6.0\ch-1-2-exercises-data-types.runtimeconfig.json
+C:\Users\pjdur\Desktop\C#_Coursework\Exercises\Chapter2\ch-1-2-exercises-data-types\ch-1-2-exercises-data-types\bin\Debug\net6.0\ch-1-2-exercises-data-types.dll
+C:\Users\pjdur\Desktop\C#_Coursework\Exercises\Chapter2\ch-1-2-exercises-data-types\ch-1-2-exercises-data-types\bin\Debug\net6.0\ch-1-2-exercises-data-types.pdb
+C:\Users\pjdur\Desktop\C#_Coursework\Exercises\Chapter2\ch-1-2-exercises-data-types\ch-1-2-exercises-data-types\obj\Debug\net6.0\ch-1-2-exercises-data-types.csproj.AssemblyReference.cache
+C:\Users\pjdur\Desktop\C#_Coursework\Exercises\Chapter2\ch-1-2-exercises-data-types\ch-1-2-exercises-data-types\obj\Debug\net6.0\ch-1-2-exercises-data-types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pjdur\Desktop\C#_Coursework\Exercises\Chapter2\ch-1-2-exercises-data-types\ch-1-2-exercises-data-types\obj\Debug\net6.0\ch-1-2-exercises-data-types.AssemblyInfoInputs.cache
+C:\Users\pjdur\Desktop\C#_Coursework\Exercises\Chapter2\ch-1-2-exercises-data-types\ch-1-2-exercises-data-types\obj\Debug\net6.0\ch-1-2-exercises-data-types.AssemblyInfo.cs
+C:\Users\pjdur\Desktop\C#_Coursework\Exercises\Chapter2\ch-1-2-exercises-data-types\ch-1-2-exercises-data-types\obj\Debug\net6.0\ch-1-2-exercises-data-types.csproj.CoreCompileInputs.cache
+C:\Users\pjdur\Desktop\C#_Coursework\Exercises\Chapter2\ch-1-2-exercises-data-types\ch-1-2-exercises-data-types\obj\Debug\net6.0\ch-1-2-exercises-data-types.dll
+C:\Users\pjdur\Desktop\C#_Coursework\Exercises\Chapter2\ch-1-2-exercises-data-types\ch-1-2-exercises-data-types\obj\Debug\net6.0\refint\ch-1-2-exercises-data-types.dll
+C:\Users\pjdur\Desktop\C#_Coursework\Exercises\Chapter2\ch-1-2-exercises-data-types\ch-1-2-exercises-data-types\obj\Debug\net6.0\ch-1-2-exercises-data-types.pdb
+C:\Users\pjdur\Desktop\C#_Coursework\Exercises\Chapter2\ch-1-2-exercises-data-types\ch-1-2-exercises-data-types\obj\Debug\net6.0\ch-1-2-exercises-data-types.genruntimeconfig.cache
+C:\Users\pjdur\Desktop\C#_Coursework\Exercises\Chapter2\ch-1-2-exercises-data-types\ch-1-2-exercises-data-types\obj\Debug\net6.0\ref\ch-1-2-exercises-data-types.dll

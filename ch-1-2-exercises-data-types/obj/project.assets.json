@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pjdur\\Desktop\\C#_Coursework\\Exercises\\Chapter2\\ch-1-2-exercises-data-types\\ch-1-2-exercises-data-types\\ch-1-2-exercises-data-types.csproj",
-      "projectName": "ch-1-2-exercises-data-types",
-      "projectPath": "C:\\Users\\pjdur\\Desktop\\C#_Coursework\\Exercises\\Chapter2\\ch-1-2-exercises-data-types\\ch-1-2-exercises-data-types\\ch-1-2-exercises-data-types.csproj",
+      "projectUniqueName": "C:\\Users\\pjdur\\Desktop\\C#_Coursework\\Exercises\\Chapter2\\ch-1-2-exercises-data-types\\ch-1-2-exercises-data-types\\hello-input.csproj",
+      "projectName": "hello-input",
+      "projectPath": "C:\\Users\\pjdur\\Desktop\\C#_Coursework\\Exercises\\Chapter2\\ch-1-2-exercises-data-types\\ch-1-2-exercises-data-types\\hello-input.csproj",
       "packagesPath": "C:\\Users\\pjdur\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\pjdur\\Desktop\\C#_Coursework\\Exercises\\Chapter2\\ch-1-2-exercises-data-types\\ch-1-2-exercises-data-types\\obj\\",
       "projectStyle": "PackageReference",
