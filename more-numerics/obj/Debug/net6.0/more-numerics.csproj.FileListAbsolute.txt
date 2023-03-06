@@ -1,0 +1,15 @@
+C:\Users\pjdur\Desktop\C#_Coursework\Exercises\Chapter2\ch-1-2-exercises-data-types\more-numerics\bin\Debug\net6.0\more-numerics.exe
+C:\Users\pjdur\Desktop\C#_Coursework\Exercises\Chapter2\ch-1-2-exercises-data-types\more-numerics\bin\Debug\net6.0\more-numerics.deps.json
+C:\Users\pjdur\Desktop\C#_Coursework\Exercises\Chapter2\ch-1-2-exercises-data-types\more-numerics\bin\Debug\net6.0\more-numerics.runtimeconfig.json
+C:\Users\pjdur\Desktop\C#_Coursework\Exercises\Chapter2\ch-1-2-exercises-data-types\more-numerics\bin\Debug\net6.0\more-numerics.dll
+C:\Users\pjdur\Desktop\C#_Coursework\Exercises\Chapter2\ch-1-2-exercises-data-types\more-numerics\bin\Debug\net6.0\more-numerics.pdb
+C:\Users\pjdur\Desktop\C#_Coursework\Exercises\Chapter2\ch-1-2-exercises-data-types\more-numerics\obj\Debug\net6.0\more-numerics.csproj.AssemblyReference.cache
+C:\Users\pjdur\Desktop\C#_Coursework\Exercises\Chapter2\ch-1-2-exercises-data-types\more-numerics\obj\Debug\net6.0\more-numerics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pjdur\Desktop\C#_Coursework\Exercises\Chapter2\ch-1-2-exercises-data-types\more-numerics\obj\Debug\net6.0\more-numerics.AssemblyInfoInputs.cache
+C:\Users\pjdur\Desktop\C#_Coursework\Exercises\Chapter2\ch-1-2-exercises-data-types\more-numerics\obj\Debug\net6.0\more-numerics.AssemblyInfo.cs
+C:\Users\pjdur\Desktop\C#_Coursework\Exercises\Chapter2\ch-1-2-exercises-data-types\more-numerics\obj\Debug\net6.0\more-numerics.csproj.CoreCompileInputs.cache
+C:\Users\pjdur\Desktop\C#_Coursework\Exercises\Chapter2\ch-1-2-exercises-data-types\more-numerics\obj\Debug\net6.0\more-numerics.dll
+C:\Users\pjdur\Desktop\C#_Coursework\Exercises\Chapter2\ch-1-2-exercises-data-types\more-numerics\obj\Debug\net6.0\refint\more-numerics.dll
+C:\Users\pjdur\Desktop\C#_Coursework\Exercises\Chapter2\ch-1-2-exercises-data-types\more-numerics\obj\Debug\net6.0\more-numerics.pdb
+C:\Users\pjdur\Desktop\C#_Coursework\Exercises\Chapter2\ch-1-2-exercises-data-types\more-numerics\obj\Debug\net6.0\more-numerics.genruntimeconfig.cache
+C:\Users\pjdur\Desktop\C#_Coursework\Exercises\Chapter2\ch-1-2-exercises-data-types\more-numerics\obj\Debug\net6.0\ref\more-numerics.dll

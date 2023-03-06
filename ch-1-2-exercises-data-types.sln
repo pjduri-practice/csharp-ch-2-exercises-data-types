@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hello-input", "ch-1-2-exerc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "numeric-types", "numeric-types\numeric-types.csproj", "{2AA0A5B2-9177-49E3-B440-29269B3B3295}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "more-numerics", "more-numerics\more-numerics.csproj", "{8EAB169B-8F21-4FA6-ABC8-6803170770D3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{2AA0A5B2-9177-49E3-B440-29269B3B3295}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2AA0A5B2-9177-49E3-B440-29269B3B3295}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2AA0A5B2-9177-49E3-B440-29269B3B3295}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EAB169B-8F21-4FA6-ABC8-6803170770D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EAB169B-8F21-4FA6-ABC8-6803170770D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EAB169B-8F21-4FA6-ABC8-6803170770D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EAB169B-8F21-4FA6-ABC8-6803170770D3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
